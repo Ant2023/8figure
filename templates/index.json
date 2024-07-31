@@ -45,6 +45,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/FataiImage1.jpg",
+        "image_2": "shopify:\/\/shop_images\/pexels-melvin-buezo-1253763-2529157.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
