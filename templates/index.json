@@ -82,12 +82,12 @@
       ],
       "custom_css": [
         "h2 {font-family: \"Futura\";}",
-        "p {font-family: \"Futura\"}"
+        "p {font-family: \"Futura\";}"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-4",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 0
@@ -95,6 +95,9 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "custom_css": [
+        "h2 {text-align: center; margin-bottom:30px;}"
+      ],
       "settings": {
         "title": "Featured products",
         "heading_size": "h2",
