@@ -15,14 +15,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "<strong>Shop Fatai William Brand<\/strong>",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Explore exclusive artist merch here. Shop one-of-a-kind pieces to express your individuality and creativity.",
             "text_style": "body"
           }
         },
