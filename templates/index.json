@@ -137,14 +137,14 @@
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "headphones",
             "second_image": false
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "customized-nike-sneakers"
           }
         }
       },
