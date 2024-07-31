@@ -145,8 +145,11 @@
         "product",
         "collection-1"
       ],
+      "custom_css": [
+        "h2 {text-align: center;}"
+      ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "8Figure Collection",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
