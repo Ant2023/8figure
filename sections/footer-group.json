@@ -21,24 +21,16 @@
             "menu": "footer"
           }
         },
-        "footer-1": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Info",
-            "menu": "footer"
-          }
-        },
         "footer-2": {
           "type": "text",
           "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "heading": "Contact Us!",
+            "subtext": "<p>We would love to hear from you!<\/p><p><strong>Location:<\/strong> 8Figure llc., Denver, CO 80231<\/p><p><strong>Email:<\/strong> FataiWale21@gmail.com<\/p><p><strong>Phone:<\/strong> (720) 347-3378<\/p>"
           }
         }
       },
       "block_order": [
         "footer-0",
-        "footer-1",
         "footer-2"
       ],
       "settings": {
