@@ -33,13 +33,16 @@
         "footer-0",
         "footer-2"
       ],
+      "custom_css": [
+        "h2 {font-family: \"Futura\"}"
+      ],
       "settings": {
         "color_scheme": "scheme-4",
         "newsletter_enable": true,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": true,
         "show_social": true,
-        "enable_country_selector": false,
+        "enable_country_selector": true,
         "enable_language_selector": false,
         "payment_enable": true,
         "show_policy": false,
