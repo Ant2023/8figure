@@ -43,6 +43,7 @@
         "text",
         "button"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/FataiImage1.jpg",
         "image_2": "shopify:\/\/shop_images\/pexels-melvin-buezo-1253763-2529157.jpg",
@@ -64,20 +65,23 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "<strong>Welcome To 8Figure Store<\/strong>",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>8Figure Merchandise offers exclusive products inspired by Afro Beats artist 8Figure, blending style with music culture. Explore our unique collections and shop the latest in fashion and music accessories.<\/p>"
           }
         }
       },
       "block_order": [
         "heading",
         "text"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "desktop_content_position": "center",
