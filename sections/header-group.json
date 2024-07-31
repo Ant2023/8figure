@@ -57,7 +57,7 @@
     "custom_liquid_CKW4pf": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<style>\nvideo {\nwidth: 100%;\nheight: auto;\ndisplay: block;\nmargin: 0 auto;\n}\n<\/style>\n<video muted autoplay playsinline loop>\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/721886bebdd6431d97fcb2556ffa3927.mp4\"\n                  type=\"video\/mp4\">\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/721886bebdd6431d97fcb2556ffa3927.mp4\"\n                  type=\"video\/mp4\">\n<\/video>",
+        "custom_liquid": "<style>\nvideo {\nwidth: 100%;\nheight: auto;\ndisplay: block;\nmargin: 0 auto;\n}\n<\/style>\n<video muted autoplay playsinline loop>\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/4afde11133b547f096cc8103eb6d4aee.mp4\"\n                  type=\"video\/mp4\">\n    <source \n\nsrc=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/4afde11133b547f096cc8103eb6d4aee.mp4\"\n                  type=\"video\/mp4\">\n<\/video>",
         "color_scheme": "",
         "padding_top": 40,
         "padding_bottom": 52
