@@ -146,7 +146,7 @@
         "collection-1"
       ],
       "custom_css": [
-        "h2 {font-family: \"Futura\" text-align: center; font-weight: 600; margin-bottom: 50px;}"
+        "h2 {font-family: \"Futura\"; text-align: center; font-weight: 600; margin-bottom: 50px;}"
       ],
       "settings": {
         "heading": "8Figure Collection",
