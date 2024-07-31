@@ -25,6 +25,10 @@
       "block_order": [
         "announcement-bar-0"
       ],
+      "custom_css": [
+        "h2{font-family: \"Futura\";}",
+        "p {font-family: \"Futura\"}"
+      ],
       "settings": {
         "color_scheme": "",
         "show_line_separator": true,
@@ -57,7 +61,7 @@
     "custom_liquid_CKW4pf": {
       "type": "custom-liquid",
       "custom_css": [
-        "h2{font-family:}"
+        "h2 {font-family: ;}"
       ],
       "settings": {
         "custom_liquid": "<style>\nvideo {\nwidth: 100%;\nheight: auto;\ndisplay: block;\nmargin: 0 auto;\n}\n<\/style>\n<video muted autoplay playsinline loop>\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/4afde11133b547f096cc8103eb6d4aee.mp4\"\n                  type=\"video\/mp4\">\n    <source \n\nsrc=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/4afde11133b547f096cc8103eb6d4aee.mp4\"\n                  type=\"video\/mp4\">\n<\/video>",
