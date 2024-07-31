@@ -34,7 +34,8 @@
         "footer-2"
       ],
       "custom_css": [
-        "h2 {font-family: \"Futura\"; font-weight: 600;}"
+        "h2 {font-family: \"Futura\"; font-weight: 600;}",
+        "p {font-family: \"Futura\";}"
       ],
       "settings": {
         "color_scheme": "scheme-4",
