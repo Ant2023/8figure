@@ -161,13 +161,15 @@
     },
     "video": {
       "type": "video",
+      "custom_css": [
+        "h2 {text-align: center; font-weight: 600; font-family: \"Futura\";}"
+      ],
       "settings": {
         "heading": "Music",
         "heading_size": "h1",
         "enable_video_looping": true,
-        "video": "shopify:\/\/files\/videos\/Yellow Black And White Minimalist Simple  Typography Elegant Music Channel YouTube Outro.mp4",
-        "video_url": "https:\/\/youtu.be\/DX9G54GTHCI?si=ytx7rGmnUa4imPUR",
-        "cover_image": "shopify:\/\/shop_images\/Japata-cover.png",
+        "video": "shopify:\/\/files\/videos\/Untitled video - Made with Clipchamp_da7cce39-b61f-4069-b552-0eacd4275709.mp4",
+        "video_url": "https:\/\/youtu.be\/wmVdTjX1m6E?si=Cd6glMFrSFLIc9jV",
         "description": "Music Video by Fatai William",
         "full_width": true,
         "color_scheme": "scheme-1",
