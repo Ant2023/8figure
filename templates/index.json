@@ -81,7 +81,8 @@
         "text"
       ],
       "custom_css": [
-        "h2 {font-family: 'Futura';}"
+        "h2 {font-family: \"Futura\";}",
+        "p {font-family: \"Futura\"}"
       ],
       "settings": {
         "desktop_content_position": "center",
