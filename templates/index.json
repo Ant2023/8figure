@@ -96,7 +96,8 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-        "h2 {font-weight: 600; font-size: 1.5rem; text-align: center; margin-bottom: 30px;}"
+        "h2 {font-weight: 600; font-size: 3rem; text-align: center; margin-bottom: 30px;}",
+        "p {font-family: \"Futura\";}"
       ],
       "settings": {
         "title": "Featured products",
