@@ -44,7 +44,7 @@
         "button"
       ],
       "custom_css": [
-        "h2{font-size: 32px; font-family: \"Futura\"}"
+        "h2 {font-size: 5rem; font-family: \"Futura\";}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/FataiImage1.jpg",
