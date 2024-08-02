@@ -19,13 +19,6 @@
             "heading_size": "h0"
           }
         },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "Explore exclusive artist merch here. Shop one-of-a-kind pieces to express your individuality and creativity.",
-            "text_style": "body"
-          }
-        },
         "button": {
           "type": "buttons",
           "settings": {
@@ -40,11 +33,11 @@
       },
       "block_order": [
         "heading",
-        "text",
         "button"
       ],
       "custom_css": [
-        "h2 {font-size: 5rem; font-family: \"Futura\";}"
+        "h2 {font-size: 5rem; font-family: \"Futura\";}",
+        "p {font-family: \"Futura\";}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/FataiImage1.jpg",
