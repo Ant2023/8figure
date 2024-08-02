@@ -26,8 +26,8 @@
         "announcement-bar-0"
       ],
       "custom_css": [
-        "h2{font-family: \"Futura\";}",
-        "p {font-family: \"Futura\"}"
+        "h2 {font-family: \"Futura\";}",
+        "p {font-family: \"Futura\";}"
       ],
       "settings": {
         "color_scheme": "",
