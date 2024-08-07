@@ -17,8 +17,8 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
-            "link": ""
+            "text": "New products in store!",
+            "link": "shopify:\/\/products\/distressed-denim-bucket-hat"
           }
         }
       },
@@ -30,7 +30,7 @@
         "p {font-family: \"Futura\";}"
       ],
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "scheme-1",
         "show_line_separator": true,
         "show_social": false,
         "auto_rotate": false,
