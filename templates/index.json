@@ -9,6 +9,34 @@
 */
 {
   "sections": {
+    "image_banner_rW3fqz": {
+      "type": "image-banner",
+      "blocks": {
+        "text_9eziaf": {
+          "type": "text",
+          "settings": {
+            "text": "Welcome To Our Store!",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_9eziaf"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -159,7 +187,7 @@
     "image_banner_JbdcWe": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design.jpg",
+        "image": "shopify:\/\/shop_images\/FataiImage1.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -276,6 +304,7 @@
     }
   },
   "order": [
+    "image_banner_rW3fqz",
     "image_banner",
     "rich_text",
     "featured_product_Gg7fWr",
