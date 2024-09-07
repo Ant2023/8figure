@@ -60,7 +60,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>8Figure Merchandise offers exclusive products inspired by Afro Beats artist 8Figure, blending style with music culture. Explore our unique collections and shop the latest in fashion and music accessories.<\/p>"
+            "text": "<p>8Figure Merchandise offers exclusive products inspired by Afro Beats artist Fatai William, blending style with music culture. Explore our unique collections and shop the latest in fashion and music accessories.<\/p>"
           }
         }
       },
@@ -182,7 +182,7 @@
         "p {font-family: \"Futura\";}"
       ],
       "settings": {
-        "product": "tough-case-for-iphone®",
+        "product": "snapback-hat",
         "color_scheme": "scheme-1",
         "secondary_background": false,
         "media_size": "medium",
